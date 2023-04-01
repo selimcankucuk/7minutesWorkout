@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">7minutesWorkout</string>
+    <string name="start_image">StartImage</string>
+    <string name="get_ready_for">GET READY FOR</string>
+    <string name="weight_in_kg">WEIGHT (in kg)</string>
+    <string name="height_in_cm">HEIGHT (in cm)</string>
+</resources>
